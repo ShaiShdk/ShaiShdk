@@ -7,3 +7,8 @@ Besides simulations I'm very much passionate about traditional Image Processing 
 
 ### Contact Info ###
 You can reach me at shahriar@caltech.edu
+
+Personal links/webpages:
+  * (physhsh)[https://www.physhsh.com]
+  * (LinkedIn)[https://www.linkedin.com/in/shahriar-shadkhoo/]
+    
